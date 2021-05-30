@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257129667000",
+    "firebase_url": "https://dukandar-8f7f3-default-rtdb.firebaseio.com",
+    "project_id": "dukandar-8f7f3",
+    "storage_bucket": "dukandar-8f7f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257129667000:android:8e400a08a6debc0d98d74d",
+        "android_client_info": {
+          "package_name": "com.example.dukandar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257129667000-o4se11tr96hlj41tck1hskslqha1ue21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPO87kryotOrO0qusjNAmXa5citR0ud80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257129667000-o4se11tr96hlj41tck1hskslqha1ue21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
